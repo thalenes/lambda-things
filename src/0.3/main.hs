@@ -7,3 +7,5 @@ main = do
 
     let parNumbers = [2,4..13]
     print parNumbers
+
+    
